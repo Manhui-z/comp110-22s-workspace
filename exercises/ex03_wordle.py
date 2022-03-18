@@ -72,12 +72,6 @@ def main() -> None:
     print("X/6 - Sorry, try again tomorrow!")
 
 
-# Enable the program to run as a midule, and enable other modules to import these functions
+# Enable the program to run as a module, and enable other modules to import these functions
 if __name__ == "__main__":
     main()
-
-        
-
-
-
-
